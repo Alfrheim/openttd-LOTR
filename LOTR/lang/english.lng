@@ -1,0 +1,4 @@
+##grflangid 0x22
+STR_GRF_NAME                                                    :{NAME} - {VERSION} 
+STR_GRF_DESCRIPTION                                             :LOTR
+STR_TOWN_NAMES							:{NAME} Town names.
